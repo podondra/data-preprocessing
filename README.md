@@ -9,5 +9,5 @@ It was done as homework for my master course Data Preprocessing (MI-PDD).
 2. exploration, validation, cleaning
 3. feature selection, transformations
 4. balancing and binning
-5. PCA and LDA
+5. PCA
 5. time series
